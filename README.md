@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Mateus Abu Kamel 👋
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -13,3 +13,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
+
+  ##
+  
+  <a href = "mailto:mateusfernandesak0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-abukamel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
